@@ -1,3 +1,2 @@
-Git is a version control system
-Git is free software
-Git is libingxin
+This is readme_01 txt
+Please use git to install and push
